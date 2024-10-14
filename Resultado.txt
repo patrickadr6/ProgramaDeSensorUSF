@@ -1,0 +1,3 @@
+A temperatura está fora dos padrões (padrão: entre 22 e 38)! Mande para a manutenção!
+A vel. nominal está fora dos padrões (padrão: entre 55 e 120)!  Mande para a manutenção!
+A vel. da rampa está fora dos padrões (padrão: entre 60 e 135)!  Mande para a manutenção!
